@@ -1,4 +1,4 @@
-# Big-Mart-Sales-Analysis-Linear-Regression
+# Big-Mart-Sales-Analysis-Linear-Regression capstone 1 project
 This repository contains a data analysis and predictive modeling project using linear regression to analyze and forecast sales trends for Big Mart retail stores.
 
 # Key Features:
